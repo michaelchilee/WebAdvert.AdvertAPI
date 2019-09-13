@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>AdvertAPI.Models</id>
+    <version>1.0.0</version>
+    <authors>Michael C. Lee</authors>
+    <owners>Michael C. Lee</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/michaelchilee/WebAdvert.AdvertAPI</projectUrl>
+    <description>Package Description</description>
+    <repository url="https://github.com/michaelchilee/WebAdvert.AdvertAPI" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\bin\Debug\netcoreapp2.2\AdvertAPI.Models.dll" target="lib\netcoreapp2.2\AdvertAPI.Models.dll" />
+  </files>
+</package>

@@ -1,0 +1,9 @@
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\bin\Debug\netcoreapp2.2\AdvertAPI.Models.deps.json
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\bin\Debug\netcoreapp2.2\AdvertAPI.Models.dll
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\bin\Debug\netcoreapp2.2\AdvertAPI.Models.pdb
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.csprojAssemblyReference.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.csproj.CoreCompileInputs.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.AssemblyInfoInputs.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.AssemblyInfo.cs
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.dll
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI.Models\obj\Debug\netcoreapp2.2\AdvertAPI.Models.pdb
