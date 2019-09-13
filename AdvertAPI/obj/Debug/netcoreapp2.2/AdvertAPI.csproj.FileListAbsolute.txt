@@ -1,0 +1,17 @@
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.Models.dll
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.csprojAssemblyReference.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.csproj.CoreCompileInputs.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.RazorAssemblyInfo.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.RazorAssemblyInfo.cs
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.AssemblyInfoInputs.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.AssemblyInfo.cs
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.RazorTargetAssemblyInfo.cache
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.deps.json
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.runtimeconfig.json
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.runtimeconfig.dev.json
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.dll
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.pdb
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\bin\Debug\netcoreapp2.2\AdvertAPI.Models.pdb
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.csproj.CopyComplete
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.dll
+C:\src\UdemyTraining\MicroServicesWith.NETCore+AWS\source\WebAdvert.AdvertAPI\AdvertAPI\obj\Debug\netcoreapp2.2\AdvertAPI.pdb
